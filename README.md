@@ -1,6 +1,7 @@
 # Recorder App
 
-![WhatsApp Image 2024-03-28 at 09 22 51 (1)](https://github.com/ssudhanshu488/Recorder-App/assets/34166698/42093d37-3b53-40a5-98eb-eb84372e7dbf)
+![WhatsApp Image 2024-03-28 at 09 22 51 (1)](https://github.com/ssudhanshu488/Recorder-App/assets/34166698/3598f1c2-8158-4387-8f68-396b02c76930)
+
 
 
 ## Description
